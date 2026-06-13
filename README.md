@@ -1,9 +1,9 @@
 # Grocery Store Billing System using Python
 
-## 📌 Case Study Title
+# Case Study Title
 Grocery Store Billing System
 
-## 👩‍🎓 Student Details
+# Student Details
 Name: Aarzu Bhatt 
 Roll No.: 202501100700001
 Branch: ECE 
@@ -11,7 +11,7 @@ Section: A
 
 ---
 
-## 📖 Problem Statement
+# Problem Statement
 A grocery store wants to calculate the total cost of items purchased by a customer.
 
 Requirements:
@@ -21,7 +21,7 @@ Requirements:
 
 ---
 
-## 💡 Approach
+#  Approach
 1. Accept price input for 3 items using `float()` function.
 2. Calculate total cost by adding all three prices.
 3. Check if total > 50:
@@ -32,11 +32,11 @@ Requirements:
    - Discount Applied
    - Final Payable Amount
 
----
 
-## 🧮 Python Code
 
-```python
+# Python Code
+
+
 # Grocery Store Billing System
 
 item1 = float(input("Enter price of item 1: $"))
